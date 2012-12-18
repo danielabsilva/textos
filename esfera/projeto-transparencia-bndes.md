@@ -3,9 +3,9 @@
 
 ## Objetivo
 
-Analisar o [portal de transparência do BDNES](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/BNDES_Transparente/) e sua adequação aos príncipios dos dados abertos e a legislação brasileira.
+Analisar o [portal de transparência do BDNES](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/BNDES_Transparente/) e sua adequação aos príncipios dos dados abertos e a legislação brasileira. Indicar boas práticas que possam ser adotadas pelo BNDES no aprimoramento das suas politicas de transparência e disponibilização de dados.
 
-## Estrutura
+## Estrutura atual
 
 Lançada em 2007 a seção BDNES Transparente oferece as seguintes informações:
 
@@ -47,7 +47,13 @@ Mais recentemente, resultado da Lei de Acesso à Informação uma [seção espec
 ** Informações pertinentes ao seu funcionamento, localização e dados de contato no âmbito do BNDES.
 
 
-## Dados Abertos
+## Parâmetros de Análise
+
+### Transparência
+
+### Acesso à Informação
+
+### Dados Abertos
 
 Ao analisar as políticas de transparência do BNDES esse documento se pauta também pelos *8 príncipios de Dados Abertos* desenhado originalmente por um grupo de trabalhoo em uma conferência em Sebastopool, California em 2007 e incluido no Guia de Dados Governamentais Abertos, elaborado pela CGU e a Transparência Hacker; na INDA - Infraestrutura Nacional de Dados Abertos e nos príncipios da OGP.
 
